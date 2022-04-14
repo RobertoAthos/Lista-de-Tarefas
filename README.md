@@ -2,7 +2,10 @@
 
 ## About the Project
 ### A simple project of a ToDo list made with React using TypeScript
-![Task_List_-_Google_Chrome_2022-04-14_11-45-23_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/94712001/163419778-378e261d-169a-4cfe-8e34-898e25e0d005.gif)
+
+## Screenshots
+![App Screenshot](https://user-images.githubusercontent.com/94712001/163420404-d6d437a8-eadf-4176-ae34-9a1fc932951f.png)
+
 
 ## Built With
  - [React.js](https://reactjs.org/)
